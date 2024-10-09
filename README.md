@@ -1,6 +1,6 @@
 # Probability-Calculator with Python
 
-#### Description
+### Description
 
 Suppose there is a hat containing 5 blue balls, 4 red balls, and 2 green balls. What is the probability that a random draw of 4 balls will contain at least 1 red ball and 2 green balls? While it would be possible to calculate the probability using advanced mathematics, an easier way is to write a program to perform a large number of experiments to estimate an approximate probability.
 
@@ -8,7 +8,7 @@ For this project, I will write a program to determine the approximate probabilit
 
 This was a certified project that was submitted to fCC.
 
-#### Details
+### Details
 
 First, I will create a Hat class in main.py. The class should take a variable number of arguments that specify the number of balls of each color that are in the hat. For example, a class object could be created in any of these ways:
 
@@ -51,6 +51,6 @@ The output would be something like this:
 
 Since this is based on random draws, the probability will be slightly different each time the code is run.
 
-#### User stories/tests that passed:
+### User stories/tests that passed:
 
 // coming soon
