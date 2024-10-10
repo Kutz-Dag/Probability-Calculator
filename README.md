@@ -53,4 +53,7 @@ Since this is based on random draws, the probability will be slightly different 
 
 ### User stories/tests that passed:
 
-// coming soon
+- [x] 1. Creation of hat object should add correct contents.
+- [x] 2. The draw method in hat class should reduce number of items in contents.
+- [x] 3. The draw method should behave correctly when the number of balls to extract is bigger than the number of balls in the hat.
+- [x] 4. The experiment method should return a different probability.
