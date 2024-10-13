@@ -6,7 +6,7 @@ Suppose there is a hat containing 5 blue balls, 4 red balls, and 2 green balls. 
 
 For this project, I will write a program to determine the approximate probability of drawing certain balls randomly from a hat.
 
-This was a certified project that was submitted to fCC.
+This was a certified project that was submitted to freeCodeCamp.
 
 ### Details
 
